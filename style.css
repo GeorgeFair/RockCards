@@ -44,14 +44,14 @@ h4 {
 .container {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
-  gap: 20px;
+  gap: 40px;
   padding: 20px;
 }
 
 .card {
   width: 100%;
   border: 5px solid burlywood;
-  border-radius: 5px;
+  border-radius: 20px;
   background-color: white;
   text-align: center;
   padding: 10px;
