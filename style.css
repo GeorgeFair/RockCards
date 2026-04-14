@@ -53,6 +53,15 @@ h4 {
   border: 5px solid burlywood;
   border-radius: 5px;
   background-color: white;
+  text-align: center;
+  padding: 10px;
+}
+
+.img {
+  border: 5px solid lightblue;
+  border-radius: 10px;
+  width: 50%;
+  height: 50%;
 }
 
 @media (max-width: 900px) {
