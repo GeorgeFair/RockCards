@@ -50,7 +50,7 @@ h4 {
 
 .card {
   width: 250px;
-  border: 10px solid burlywood;
-  border-radius: 10px;
+  border: 5px solid burlywood;
+  border-radius: 5px;
   background-color: white;
 }
