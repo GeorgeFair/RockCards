@@ -49,7 +49,6 @@ h4 {
 }
 
 .card {
-  height: 100%;
   width: 100%;
   border: 5px solid burlywood;
   border-radius: 5px;
@@ -57,13 +56,13 @@ h4 {
 }
 
 @media (max-width: 900px) {
-  .card-container {
+  .container {
     grid-template-columns: 1fr, 1fr;
   }
 }
 
 @media (max-width: 600px) {
-  .card-container {
+  .container {
     grid-template-columns: 1fr;
   }
 }
