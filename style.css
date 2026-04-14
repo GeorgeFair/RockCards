@@ -55,3 +55,15 @@ h4 {
   border-radius: 5px;
   background-color: white;
 }
+
+@media (max-width: 900px) {
+  .card-container {
+    grid-template-columns: 1fr, 1fr;
+  }
+}
+
+@media (max-width: 600px) {
+  .card-container {
+    grid-template-columns: 1fr;
+  }
+}
