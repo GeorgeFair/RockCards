@@ -40,3 +40,17 @@ h4 {
   font-weight: bolder;
 
 }
+
+.container {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    padding: 20px;
+}
+
+.card {
+  width: 250px;
+  border: 10px solid burlywood;
+  border-radius: 10px;
+  background-color: white;
+}
